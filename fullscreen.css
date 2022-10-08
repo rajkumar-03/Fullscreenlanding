@@ -1,0 +1,61 @@
+body{
+    margin: 0px;
+}
+#first{
+    background-image: url(../Fullscreenlanding/image1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+#first1{
+    text-align: center;
+    padding-top: 300px;
+    color: #926239;
+    font-size: 20px;
+}
+#first p{
+    padding-bottom: 15px;
+}
+#first a{
+    text-decoration: none;
+    color: #926239;
+    border: solid 2px grey;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#first a:hover{
+    color: white;
+    background-color: #926239;
+}
+#second{
+    background-color: #926339;
+    color: white;
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.2;
+}
+#i{
+    color: #926239;
+    padding: 20px;
+    font-size: 20;
+    line-height: 1.5;
+    text-align: center;
+}
+#third{
+    display: inline-block;
+}
+#third1,#third2{
+    float: left;
+    width: 33%;
+}
+#third1 p,#third2 p{
+    padding: 20px;
+    font-size: 20;
+    line-height: 1.5;
+}
+#third1{
+    background-color: #926239;
+    color: white;
+}
